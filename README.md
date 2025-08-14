@@ -55,9 +55,11 @@ Telecom X enfrenta una alta tasa de cancelación de clientes y busca comprender 
    - Identificación de factores clave asociados a la evasión
   
 
-## 🧑‍💻 Autor
-**AluraLatam**  Next Education ORACLE
-** Rocio Davila Elias**  
+##  Autor
+**AluraLatam**  
+Next Education ORACLE
+**Rocio Davila Elias**  
+
 Aspirante a Cientifico de Datos | Apasionada por convertir datos en decisiones  
 ---
 
